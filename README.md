@@ -13,10 +13,10 @@ I'm a partner at [17A](https://group17a.com), a consulting firm that works with 
       <br><sub><a href="https://github.com/eichenbaumj/gizmowarehouse.org/tree/main/gizmos/medicaid-work-requirements">source and data</a></sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/eichenbaumj/ai-vendor-diligence-wizard"><img src="https://gizmowarehouse.org/og/default.png" alt="AI Vendor Diligence Wizard" width="100%"></a>
-      <br><b><a href="https://github.com/eichenbaumj/ai-vendor-diligence-wizard">AI Vendor Diligence Wizard</a></b><br>
-      Paste an AI vendor's pitch and get back what the public record confirms, what it doesn't, and the questions to send before anyone books a demo. Free and open source for state and local government, in field test with a small group of public servants.
-      <br><sub><a href="https://github.com/eichenbaumj/ai-vendor-diligence-wizard/blob/main/docs/methodology.md">methodology</a></sub>
+      <a href="https://gizmowarehouse.org/gizmo/public-private-compensation-comparison"><img src="https://gizmowarehouse.org/og/public-private-compensation-comparison.png" alt="High Floor, Low Ceiling" width="100%"></a>
+      <br><b><a href="https://gizmowarehouse.org/gizmo/public-private-compensation-comparison">High Floor, Low Ceiling</a></b><br>
+      Public pay holds its own at the bottom of the labor market and falls far behind at the top, exactly where private pay has soared. The public-sector pay gap by skill, by field, by level of government, and over time, from ACS microdata, BLS and BEA series, and city and state payrolls.
+      <br><sub><a href="https://github.com/eichenbaumj/gizmowarehouse.org/tree/main/gizmos/public-private-compensation-comparison">source and data</a></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://daf-yomi.dev"><img src="https://gizmowarehouse.org/og/daf-yomi.png" alt="Today's Daf" width="100%"></a>
@@ -40,7 +40,6 @@ I'm a partner at [17A](https://group17a.com), a consulting firm that works with 
 |---|---|
 | [Reducing Violent Crime Without New Budget, New Staff, or More Arrests](https://eichenbaumj.github.io/reducing-violence-whitepaper/) | A guide for city leaders, with Dallas's 2024 to 2025 implementation as the case study. |
 | [Pricing the Fear of Data Centers](https://gizmowarehouse.org/gizmo/data-center-restriction-cost) | What a town gives up when it says no, a national map of restrictions, and the terms to demand if the answer is yes. |
-| [High Floor, Low Ceiling](https://gizmowarehouse.org/gizmo/public-private-compensation-comparison) | How public-sector pay compression erodes public service. ACS microdata, BLS and BEA series, city and state payrolls. |
 | [The New Math on NYC's Public Grocery Stores](https://gizmowarehouse.org/gizmo/nyc-public-grocery-new-math) | A ten-year cost of the 30 percent discount promise, and what the same money would feed instead. |
 | [NYC Property Tax: Who Pays, Who Doesn't](https://gizmowarehouse.org/gizmo/nyc-property-tax-map) | A parcel-level map of effective rates, and why two identical brownstones pay different bills. |
 | [How to Save the Government from Microsoft Copilot](https://gizmowarehouse.org/gizmo/microsoft-copilot) | Why agencies default to Copilot, what the head-to-head numbers say, and a one-page procurement checklist. |
@@ -54,6 +53,6 @@ Most of what I ship sits in private client repositories. The public ones are abo
 
 ## Right now (October 2026)
 
-A Hebrew edition of Today's Daf, the vendor wizard's field test, and the next few gizmos.
+A Hebrew edition of Today's Daf, and the next few gizmos.
 
 If something here sparks something, write me at [joe@group17a.com](mailto:joe@group17a.com).
