@@ -51,8 +51,4 @@ I'm a partner at [17A](https://group17a.com), a consulting firm that works with 
 
 Most of what I ship sits in private client repositories. The public ones are above. [gizmowarehouse.org](https://github.com/eichenbaumj/gizmowarehouse.org) is a generated mirror of the site plus the source behind every gizmo that is currently live. A sync gate publishes a gizmo's code only once the gizmo itself is.
 
-## Right now (October 2026)
-
-A Hebrew edition of Today's Daf, and the next few gizmos.
-
 If something here sparks something, write me at [joe@group17a.com](mailto:joe@group17a.com).
