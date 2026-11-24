@@ -7,6 +7,12 @@ I'm a partner at [17A](https://group17a.com), a consulting firm that works with 
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://gizmowarehouse.org/gizmo/data-center-utility-bills"><img src="https://gizmowarehouse.org/og/data-center-utility-bills.png" alt="Do Data Centers Raise Your Electric Bill?" width="100%"></a>
+      <br><b><a href="https://gizmowarehouse.org/gizmo/data-center-utility-bills">Do data centers raise your electric bill?</a></b><br>
+      Politicians in both parties say they do. I went through 2,244 data centers and 25 years of federal utility data to check. From what I found, they probably do not raise household electricity prices by more than 5%, and very unlikely by more than 10%.
+      <br><sub><a href="https://github.com/eichenbaumj/gizmowarehouse.org/tree/main/gizmos/data-center-utility-bills">code, plan and results</a> · <a href="https://gizmowarehouse.org/gizmo/data-center-utility-bills/methodology">technical version</a></sub>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://gizmowarehouse.org/gizmo/medicaid-work-requirements"><img src="https://gizmowarehouse.org/og/medicaid-work-requirements.png" alt="Medicaid work requirements explorer" width="100%"></a>
       <br><b><a href="https://gizmowarehouse.org/gizmo/medicaid-work-requirements">Who loses Medicaid in 2027</a></b><br>
       A nationwide, bottom-up model of the new federal work requirement. Who is at risk, where they live, and whether each state can verify work before the deadline. Live map, a brief for every state, and the methodology.
@@ -17,12 +23,6 @@ I'm a partner at [17A](https://group17a.com), a consulting firm that works with 
       <br><b><a href="https://gizmowarehouse.org/gizmo/public-private-compensation-comparison">High Floor, Low Ceiling</a></b><br>
       Public pay holds its own at the bottom of the labor market and falls far behind at the top, exactly where private pay has soared. The public-sector pay gap by skill, by field, by level of government, and over time, from ACS microdata, BLS and BEA series, and city and state payrolls.
       <br><sub><a href="https://github.com/eichenbaumj/gizmowarehouse.org/tree/main/gizmos/public-private-compensation-comparison">source and data</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://daf-yomi.dev"><img src="https://gizmowarehouse.org/og/daf-yomi.png" alt="Today's Daf" width="100%"></a>
-      <br><b><a href="https://daf-yomi.dev">Today's Daf</a></b><br>
-      The day's page of Talmud in English, with a short note written by an AI that says so. One Cloudflare Worker, no framework, no accounts, no tracking. A daily email if you want it.
-      <br><sub><a href="https://github.com/eichenbaumj/daf-yomi">source</a> · <a href="https://gizmowarehouse.org/gizmo/daf-yomi">how I built it</a></sub>
     </td>
   </tr>
 </table>
@@ -38,6 +38,7 @@ I'm a partner at [17A](https://group17a.com), a consulting firm that works with 
 
 | | |
 |---|---|
+| [Today's Daf](https://daf-yomi.dev) | The day's page of Talmud in English, with a short note written by an AI that says so. One Cloudflare Worker, no framework, no accounts, no tracking. ([source](https://github.com/eichenbaumj/daf-yomi) · [how I built it](https://gizmowarehouse.org/gizmo/daf-yomi)) |
 | [Reducing Violent Crime Without New Budget, New Staff, or More Arrests](https://eichenbaumj.github.io/reducing-violence-whitepaper/) | A guide for city leaders, with Dallas's 2024 to 2025 implementation as the case study. |
 | [Pricing the Fear of Data Centers](https://gizmowarehouse.org/gizmo/data-center-restriction-cost) | What a town gives up when it says no, a national map of restrictions, and the terms to demand if the answer is yes. |
 | [The New Math on NYC's Public Grocery Stores](https://gizmowarehouse.org/gizmo/nyc-public-grocery-new-math) | A ten-year cost of the 30 percent discount promise, and what the same money would feed instead. |
